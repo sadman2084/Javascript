@@ -17,6 +17,7 @@ This guide explains how to create and run a simple JavaScript file.
          alert("hello world"); // This will display a pop-up message.
      </script>
      ```
+    <a href="https://github.com/sadman2084/Javascript/blob/main/index.html">Hello world code</a>
 
 4. **Run the File**  
    - Open the HTML file using a live server or directly in a web browser.
