@@ -39,7 +39,8 @@ That's it! You have successfully created and run a simple JavaScript file.
 - **Description**: Outputs content directly to the web page.
 - **Example**:
   ```javascript
-  document.write("Hello, world!");
+  document.write("Hello, world! </br>");
+   document.write("Welcome Home ");
 
 ### 3. `console.log()`
 - **Description**: Displays messages in the browser's developer console.
