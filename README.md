@@ -25,6 +25,4 @@ JavaScript is now standardized through the **ECMAScript** specification, and it 
 
 JavaScript is a cornerstone of modern web development, enabling developers to build interactive, responsive, and dynamic websites and applications. With its vast ecosystem and constant evolution, JavaScript continues to be one of the most important programming languages in the world.
 
-## License
 
-Include your project’s license here (e.g., MIT, GPL, etc.).
