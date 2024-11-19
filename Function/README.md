@@ -1,6 +1,3 @@
-Here's a simple README file for your code:
-
-```markdown
 # **JavaScript Functions: With and Without Parameters**
 
 This code demonstrates two types of functions in JavaScript: one **without parameters** and another **with parameters**. Each function calculates the square of a number using the `Math.pow()` method and displays the result.
