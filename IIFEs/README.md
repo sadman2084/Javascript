@@ -1,6 +1,3 @@
-Here’s a simple README for your immediately invoked function expression (IIFE) code:
-
-```markdown
 # **JavaScript Immediately Invoked Function Expression (IIFE)**
 
 This code demonstrates the concept of **Immediately Invoked Function Expressions (IIFE)** in JavaScript. The function is defined and executed immediately after it is created.
