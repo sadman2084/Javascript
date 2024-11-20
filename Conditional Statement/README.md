@@ -101,3 +101,29 @@ zero value
 
 ---
 
+### **How to Run**
+
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   ```
+2. Open the HTML file in any web browser.
+3. Input a numeric value when prompted.
+4. View the output in the browser.
+
+---
+
+### **Files Structure**
+
+```
+│
+└───index.html  # Main file containing the JavaScript code.
+```
+
+---
+
+### **License**
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute it.
+
+---

@@ -1,3 +1,6 @@
+Here's the updated README to explain the concepts covered in your code:
+
+```markdown
 # JavaScript Operators: A Comprehensive Guide
 
 This project demonstrates various types of operators in JavaScript with examples. Operators are symbols or keywords used to perform operations on variables and values.

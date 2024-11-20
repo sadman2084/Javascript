@@ -1,4 +1,5 @@
-
+```markdown
+# JavaScript Variables and the `var` Keyword
 
 ## What is a Variable?
 
