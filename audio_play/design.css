@@ -1,0 +1,10 @@
+button {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+}
+
+.anim {
+    box-shadow: 0 15px 18px 0 rgba(255, 0, 0, 0.3); /* Add color and adjust transparency */
+    opacity: 0.5;
+}
