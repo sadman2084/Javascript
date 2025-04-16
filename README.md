@@ -1,4 +1,4 @@
-# JavaScript: What It Is and Its Origins
+# JavaScript: What It Is and Its Origin
 
 ## What is JavaScript?
 
